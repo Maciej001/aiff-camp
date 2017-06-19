@@ -22,6 +22,6 @@
 
 
 ## Social
-[Instagram Photos](https://www.instagram.com/codecamps/)
-[All our photos](https://photos.google.com/u/5/?pageId=none)
-[Google Photos animations!](https://photos.google.com/u/5/assistant)
+- [Instagram Photos](https://www.instagram.com/codecamps/)
+- [All our photos](https://photos.google.com/u/5/?pageId=none)
+- [Google Photos animations!](https://photos.google.com/u/5/assistant)
