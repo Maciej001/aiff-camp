@@ -19,6 +19,8 @@
 ## Your  Applications
 - [Match Plans](https://matchplan.torbenpehlke.de/)
 - [Simprove](www.simprove.de)
+- [Cost Splitter - deployed](https://wukist-b30ed.firebaseapp.com/members)
+- [Cost Splitter - repo](https://github.com/ildikototh/costSplitter)
 
 
 ## Social
